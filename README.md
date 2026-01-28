@@ -13,7 +13,7 @@ A repo focused on refering and collecting good resources for programming and gen
 📚 Coding & Productivity Resource Hub
 Welcome! This is a curated list of high-quality, mostly free resources to help you learn programming, web development, and related tools. Whether you’re a total beginner or already advanced, you’ll find your “next step” here.<br />
 
-For a little more linear approach consider paying my curriculum a visit at: <a href="https://github.com/djblackberry64/djblackberry64-curriculum">https://github.com/djblackberry64/djblackberry64-curriculum</a>
+> For a little more linear approach consider paying my curriculum a visit at: <a href="https://github.com/djblackberry64/djblackberry64-curriculum">https://github.com/djblackberry64/djblackberry64-curriculum</a>
 
 1. 🚀 Learning & Mindset (Before You Code)<br />
 <ul>
